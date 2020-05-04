@@ -1,0 +1,5 @@
+github.com/claudiocleberson/bookstore_utils-shared v0.0.0-20200504190515-75865ff15d9d h1:aWShHmmogTtwYYKPrkmdcnZu2kYqOm+jUPSPccRsN28=
+github.com/claudiocleberson/bookstore_utils-shared v0.0.0-20200504190515-75865ff15d9d/go.mod h1:9A6GthI2bj2IJZG45VKV3FayYURSfOek62ukZx/+xJE=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
